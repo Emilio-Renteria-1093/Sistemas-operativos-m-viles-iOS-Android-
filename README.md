@@ -143,7 +143,55 @@ Soporta funciones como modo de pantalla dividida y ventanas flotantes para mejor
     Interf Integ  SDK     Almacen
     ROMs  Multit  APIs    Nube
 
-#### 10 características  del sistema operativo IOS
+### 10 características  del sistema operativo IOS
+1. Interfaz Intuitiva y Fluida
+- Diseño limpio y fácil de usar.
+- Animaciones fluidas y transiciones suaves.
+- Navegación mediante gestos (especialmente en modelos sin botón físico).
+
+2. Integración con el Ecosistema Apple
+- Sincronización perfecta entre dispositivos Apple (iPhone, iPad, Mac, Apple Watch, AirPods).
+- Funciones como Handoff, Continuity y Universal Clipboard.
+
+3. Seguridad y Privacidad
+- Autenticación biométrica (Face ID y Touch ID).
+- Cifrado de datos de extremo a extremo.
+- Funciones como "Rastreo de Apps" y "Informes de Privacidad".
+
+4. App Store Exclusivo
+- Plataforma centralizada para descargar aplicaciones.
+- Aplicaciones optimizadas y revisadas para garantizar seguridad y calidad.
+- Millones de apps disponibles, muchas exclusivas para iOS.
+
+5. Siri (Asistente Virtual)
+- Asistente de voz inteligente para realizar tareas, buscar información y controlar dispositivos.
+- Integración con aplicaciones de terceros.
+- Funciones como "Hey Siri" y comandos personalizados.
+
+6. Actualizaciones Regulares y Largo Soporte
+- Actualizaciones anuales con nuevas funciones.
+- Soporte prolongado para dispositivos antiguos (hasta 5-6 años).
+- Actualizaciones de seguridad frecuentes.
+
+7. Personalización y Widgets
+- Pantalla de inicio personalizable con widgets.
+- Biblioteca de apps para organizar aplicaciones.
+- Temas de pantalla y opciones de accesibilidad.
+
+8. Rendimiento Optimizado
+- Sistema operativo diseñado específicamente para el hardware de Apple.
+- Uso eficiente de recursos para maximizar la duración de la batería.
+- Procesamiento rápido y sin lag.
+
+9. Funciones de Productividad
+- Multitarea en iPad (Split View, Slide Over).
+- Herramientas como Notes, Reminders y Files.
+- Integración con iCloud para almacenamiento y sincronización de archivos.
+
+10. Innovación Tecnológica
+- Soporte para realidad aumentada (ARKit).
+- Funciones avanzadas de cámara (modo retrato, Night Mode).
+- Integración con tecnologías como AirDrop y Apple Pay.
 
 
 
