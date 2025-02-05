@@ -1,5 +1,7 @@
-# Sistemas-operativos-m-viles-iOS-Android-
-### IOS Act 2 Sistemas operativos móviles (iOS, Android)
+# Sistemas-operativos-moviles-iOS-Android-
+## IOS Act 2 Sistemas operativos móviles (iOS, Android)
+
+### 10 características  del sistema operativo Android
 
 - Código Abierto (Open Source): Android está basado en el kernel de Linux y es de código abierto, lo que permite a los fabricantes y desarrolladores modificar y personalizar el sistema operativo según sus necesidades.
 
@@ -23,6 +25,8 @@
 
 ![image](https://github.com/user-attachments/assets/fce6f5ad-8103-458c-8cc2-73fcf3aa4da7)
 
+### Como funciona el sistema operativo Android
+  
 1. Arquitectura de Android
 Android está construido sobre una arquitectura en capas, que incluye:
 
@@ -100,6 +104,47 @@ Los fabricantes también pueden personalizar Android con sus propias interfaces 
 Android permite a los usuarios ejecutar varias aplicaciones al mismo tiempo.
 
 Soporta funciones como modo de pantalla dividida y ventanas flotantes para mejorar la productividad.
+
+![image](https://github.com/user-attachments/assets/c874ae37-efbe-4b34-b764-d5eadf9aad89)
+
+### Realiza un Mapa Conceptual  (características y funciones para Android)
+
+#### Concepto 1: Sistema Operativo y Personalización
+- Basado en Linux: Núcleo Linux modificado para dispositivos móviles.
+- Código Abierto: Permite personalización por fabricantes y desarrolladores.
+- Interfaz Personalizable: Widgets, temas y launchers alternativos.
+- ROMs Personalizadas: Instalación de versiones modificadas de Android.
+
+#### Concepto 2: Funcionalidades y Conectividad
+- Google Play Store: Acceso a millones de aplicaciones y juegos.
+- Integración con Google: Servicios como Gmail, Maps, Drive, etc.
+- Conectividad Avanzada: Wi-Fi, Bluetooth, NFC y 5G/4G LTE.
+- Multitarea: Ejecución de múltiples aplicaciones simultáneamente.
+
+#### Concepto 3: Seguridad y Desarrollo
+- Google Play Protect: Escaneo de aplicaciones en busca de malware.
+- Autenticación Biométrica: Huella dactilar y reconocimiento facial.
+- Android SDK: Herramientas para desarrolladores.
+- APIs Abiertas: Acceso a hardware y servicios del dispositivo.
+
+#### Concepto 4: Innovación y Almacenamiento
+- Realidad Aumentada: Soporte para ARCore.
+- Asistente de Google: Integración con Google Assistant.
+- Almacenamiento Expandible: Soporte para tarjetas microSD.
+- Integración con la Nube: Sincronización automática con Google Drive.
+
+#
+            Android
+       /     |     \     \
+      SO     Func   Seg   Innov
+     /|\     /|\    /|\    /|\
+    Linux  Play  Protect  ARCore
+    Código Store  Biomét  Asistente
+    Interf Integ  SDK     Almacen
+    ROMs  Multit  APIs    Nube
+
+#### 10 características  del sistema operativo IOS
+
 
 
 
